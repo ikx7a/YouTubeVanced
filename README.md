@@ -2,6 +2,9 @@
 
 [<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/Logo.png" width="200" height="auto">](https://github.com/ikx7a)
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ikx7a/YouTubeVanced/blob/main/LICENSE)
+[![Version 17.03.38](https://img.shields.io/badge/Version-17.03.38-blue)](https://github.com/ikx7a)
+[![Telegram](https://badgen.net/badge/icon/telegram?icon=twitter&label)](https://telegram.me/MaximXChannels)
 
 </div>
 
@@ -39,6 +42,6 @@ bafybeib3qysjp22pj7sqimzzm4jzpbemnmnca4nhwjcd6a5eyo3xywebyy/api/v1
 
 ©️ Credits: [@MaximXChannels](https://telegram.me/MaximXChannels) & [@ikx7a]()
 
+<div align="center">
 
-
-
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/ikx7a)
