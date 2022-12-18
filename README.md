@@ -59,6 +59,6 @@ bafybeib3qysjp22pj7sqimzzm4jzpbemnmnca4nhwjcd6a5eyo3xywebyy/api/v1
 <br>
 <sub>
 
-[@MaximXChannels](https://telegram.me/MaximXChannels) & [@ikx7a]()
+[@MaximXChannels](https://telegram.me/MaximXChannels) & [@ikx7a](https://github.com/ikx7a)
 
 <div align="center">
