@@ -7,7 +7,7 @@
 
 🤔 How to Install and Use Youtube Vanced Post - Shutdown❓
 
-1. Download Vanced Manager from [here]()
+1. Download Vanced Manager from [here](https://github.com/ikx7a/VancedManager/releases/download/2.6.2/VancedManager.apk)
 
 2. Open Vanced Manager, tap the three dots and press "About"
 
