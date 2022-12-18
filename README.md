@@ -7,6 +7,19 @@
 [![Telegram](https://badgen.net/badge/icon/telegram?icon=twitter&label)](https://telegram.me/MaximXChannels)
 
 </div>
+ <details>
+<summary><b>Screenshots</b></summary>
+ <div align="center">
+<br>
+
+ > Tap For Full Screen
+
+<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS1.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp; <img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS2.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;
+<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS3.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp; <img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS4.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;
+<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS5.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp; <img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS6.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;
+
+ </div>
+</details>
 
 🤔 How to Install and Use Youtube Vanced Post - Shutdown❓
 
