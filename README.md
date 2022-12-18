@@ -27,7 +27,7 @@
 
 2. Open Vanced Manager, tap the three dots and press "About"
 
-3. Repeatedly tap the bottom of the screen until it says developer options unlocked check image.
+3. Repeatedly tap the bottom of the screen until it says developer options unlocked [check image](https://telegra.ph//file/4e90323a1647b2e530c8c.jpg).
 
 4. Tap the three dots again, tap settings then click the ⚙️ at the top
 
