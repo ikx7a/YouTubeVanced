@@ -37,7 +37,7 @@ bafybeib3qysjp22pj7sqimzzm4jzpbemnmnca4nhwjcd6a5eyo3xywebyy/api/v1
 
 3. Copy a working link and follow step no. 5 again. 
 
-©️ Credits: [@MaximXChannels] & [@ikx7a]()
+©️ Credits: [@MaximXChannels](https://telegram.me/MaximXChannels) & [@ikx7a]()
 
 
 
