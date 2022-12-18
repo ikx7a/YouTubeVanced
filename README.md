@@ -27,16 +27,7 @@
 
 2. Open Vanced Manager, tap the three dots and press "About"
 
-3. Repeatedly tap the bottom of the screen until it says developer options unlocked
- 
-<details>
-<summary>Check Image</summary>
- <div align="center">
-
-<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/SS0.png?raw=true" style="width: 23%;margin:16px;" />
-
-<div>
- </details>
+3. Repeatedly tap the bottom of the screen until it says developer options unlocked [check image](https://github.com/ikx7a/YouTubeVanced/tree/main/Check)
 
 4. Tap the three dots again, tap settings then click the ⚙️ at the top
 
