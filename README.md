@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="" width="200" height="auto">](https://github.com/ikx7a)
+[<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/Logo.png" width="200" height="auto">](https://github.com/ikx7a)
 
 
 </div>
