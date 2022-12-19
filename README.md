@@ -1,5 +1,7 @@
 <div align="center"><b>
 
+<sub>At least Give A Star and Fork The Repo. <sub>
+
 [<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/Logo.png" width="200" height="auto">](https://github.com/ikx7a)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ikx7a/YouTubeVanced/blob/main/LICENSE)
