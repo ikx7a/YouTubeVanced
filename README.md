@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"><b>
 
 [<img src="https://github.com/ikx7a/YouTubeVanced/blob/main/assets/Logo.png" width="200" height="auto">](https://github.com/ikx7a)
 
@@ -21,7 +21,7 @@
  </div>
 </details>
 
-🤔 How to Install and Use Youtube Vanced Post - Shutdown❓
+🤔 **How to Install and Use Youtube Vanced Post - Shutdown**❓
 
 1. Download Vanced Manager from [here](https://github.com/ikx7a/VancedManager/releases/download/2.6.2/VancedManager.apk)
 
